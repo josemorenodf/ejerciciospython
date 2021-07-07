@@ -1,4 +1,4 @@
-### Ejercicios de Python Básicos e Intermedios - Ciclo 1 Misión TIC 2022 :rocket:
+### Ejercicios de Python Nivel Básico e Intermedio - Ciclo 1 Misión TIC 2022 :rocket:
 
 Los ejercicios de este repositorio son de gran utilidad para comprender conceptos básicos de Python :snake:
 
